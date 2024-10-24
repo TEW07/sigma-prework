@@ -25,4 +25,5 @@ def main():
     print("Min and Max:", maxmin(given_array))
 
 
+# Test commit with new name
 main()
